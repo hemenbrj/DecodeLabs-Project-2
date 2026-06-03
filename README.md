@@ -52,4 +52,4 @@ This project performs Exploratory Data Analysis (EDA) on a sales dataset using P
 
 ## Author
 
-Saioree Ghosh
+Hemen Kumar Chaudhary
